@@ -6,7 +6,7 @@ This tutorial was inspired by [opentracing-tutorial-go](https://github.com/yuris
 
 ```
 git clone https://github.com/gogoods/opentracing-tutorial.git
-cd $GOPATH/src/github.com/gogoods/opentracing-tutorial/go
+cd $GOPATH/src/github.com/gogoods/opentracing-tutorial
 go mod download
 ```
 
